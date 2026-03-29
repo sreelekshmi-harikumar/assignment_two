@@ -1,3 +1,4 @@
 # assignment_two
-Name:Sreelekshmi Harikumar
-University number : TCR24CS068
+
+**Name**:Sreelekshmi Harikumar
+**University number** : TCR24CS068
